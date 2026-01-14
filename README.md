@@ -26,7 +26,7 @@ module Samuel # (
 
         //Things I am learning:
         learnings    = '{"Ethernet", "AXI CHI", 
-                         "Caches", "DDR Interfaces", ß"UVM"};
+                         "Caches", "DDR Interfaces", "UVM"};
         //Others:
         fun_fact = "My Username, \"Saahmuael\" comes from an old nickname I had in school";
     end
